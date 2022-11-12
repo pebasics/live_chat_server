@@ -1,1 +1,1 @@
-# live_chat_server
+# Live chat for PC & Electronic basics website

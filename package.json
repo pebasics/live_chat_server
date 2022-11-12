@@ -1,0 +1,14 @@
+{
+  "name": "peb-chatting-app",
+  "version": "1.0.0",
+  "description": "App made to integrate into PC & Electronic Basics website as custom Node.js based messaging solution",
+  "dependencies": {
+    "dom": "^0.0.3",
+    "express": "^4.18.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "start": "node server/index.js"
+  }
+}
